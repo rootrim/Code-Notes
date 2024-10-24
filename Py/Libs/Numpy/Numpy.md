@@ -2,12 +2,14 @@
 
 ---
 
-## Nedir? Ne İşe Yarar?
-
-- Numpy C/C++ ve biraz python dilinde yazılmış bir python kütüphanesidir.
-- Numpy yani Numerical Python, pythona arrayları ekler
-  ve bu sayede de daha etkili ve 50 kat hızlı çalışmalar yapabiliriz.
-- Numpy arayın dışında cebir, dönüşüm gibi matematik şeyleri getirir.
+> [!faq] Nedir? Ne İşe Yarar?
+>
+> Numpy yani Numerical Python, pythona arrayları ekler.
+>
+> Numpy C/C++ ve biraz python dilinde yazılmış bir python kütüphanesidir.
+> Çok hızlıdır ve çok işe yarar.
+>
+> Numpy arayın dışında cebir, dönüşüm gibi matematik şeyleri getirir.
 
 ## Nasıl Kullanılır?
 
@@ -19,6 +21,6 @@
 import numpy as blabla
 ```
 
-- Sonra Bum artık başlayabilirsin.
+- Sonra **Bum!** artık başlayabilirsin.
 
 ---
