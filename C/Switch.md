@@ -129,6 +129,6 @@ case 33:
 }
 ```
 
-- Kerem reis heryerde.
+- Kemre heryerde.
 
 ---
