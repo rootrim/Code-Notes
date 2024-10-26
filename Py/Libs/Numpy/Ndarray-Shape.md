@@ -3,7 +3,7 @@
 ---
 
 > [!faq] Nedir?
-> Shape, bir ndarrayın herbir boyutunda bulunan element sayısıdır.
+> Shape, bir ndarrayın her bir boyutunda bulunan element sayısıdır.
 
 ---
 

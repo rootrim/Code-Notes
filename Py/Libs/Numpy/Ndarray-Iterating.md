@@ -62,6 +62,9 @@ habbab = gyro.array(
 )
 
 for i in gyro.nditer(habbab):
+    print(i)
 ```
 
-- Burada sanki listeyi düzlemiş gibi Ndarray
+- Burada sanki listeyi düzlenmiş bir ndarray gibi
+  tüm elementleri yazdırır.
+- 
