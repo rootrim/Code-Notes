@@ -46,3 +46,22 @@ for i in habbab:
 
 - Numpy iterasyonda kullanmamız için nditer diye yardımcı bir
   fonksiyon oluşturmuş.
+- Bu fonksiyon sayesinde ekstra parametreler atayabiliriz.
+- Varsayılan olarak tüm listeyi dolaşır.
+
+- Örnek:
+
+```python
+import numpy as gyro
+
+habbab = gyro.array(
+    [
+        [1, 2, 3],
+        [4, 5, 6],
+    ],
+)
+
+for i in gyro.nditer(habbab):
+```
+
+- Burada sanki listeyi düzlemiş gibi Ndarray

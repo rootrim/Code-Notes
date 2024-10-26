@@ -35,7 +35,7 @@ print(habbab) # Çıktı 1, 2, 3, 4, 81 olur.
 - İki çıktı da farklı olduğundan da anlayabiliriyoruz ki habbabı
   kopyaladık.
 
-- View içinde view metodunu kullanırız.
+- View için view metodunu kullanırız.
 
 - Örnek:
 
