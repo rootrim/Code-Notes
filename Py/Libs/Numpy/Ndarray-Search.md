@@ -1,3 +1,5 @@
 # Ndarray Search
 
 ---
+
+> [!note] Nedir?
