@@ -18,7 +18,7 @@
 - Örnek:
 
 ```python Code
-import numpy as blabla
+import numpy as gyro
 ```
 
 - Sonra **Bum!** artık başlayabilirsin.
