@@ -30,4 +30,7 @@ import matplotlib as mpl
 mpl.use("module://matplotlib-backend-kitty")
 ```
 
+- Oluşturduğunuz tabloyu görmek istiyorsanız `matplotlib.pyplot.show()`
+  fonksiyonu ile görebilirsiniz.
+
 ---
