@@ -28,7 +28,7 @@ olarak bir hiyerarşi gönderir.
 
 ```python
 img = cv.imread("Photos/sexyvamppire.png")
-image, contours, hierarchy = cv.findContours(
+contours, hierarchy = cv.findContours(
     img,
     cv.RETR_CCOMP,
     cv.CHAIN_APPROX_SIMPLE,

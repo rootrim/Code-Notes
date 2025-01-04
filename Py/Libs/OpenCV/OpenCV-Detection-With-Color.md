@@ -59,7 +59,7 @@ mask_dilated = cv.dilate(mask_eroded, None, iterations=2)
 Beşinci adım için ise `findContours()` methodunu kullanırız.
 
 ```python
-(contours, _) = cv.findContours(
+contours, _ = cv.findContours(
     mask.copy(),
     cv.RETR_EXTERNAL,
     cv.CHAIN_APPROX_SIMPLE,
